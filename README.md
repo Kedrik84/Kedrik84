@@ -37,6 +37,8 @@
 <p align="center"> 
   &emsp;
   <img height='70' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  &emsp;
+  <img height='70' align='center' src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png">
 </p>
 
 ### ⌨️ Database
