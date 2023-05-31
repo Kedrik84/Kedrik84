@@ -7,6 +7,7 @@
 - :snake: But, I also like `Python`.
 - I am experienced with `Angular` framewors.
 - :nerd_face: Loves `Star Trek` :uss enterprise:
+- 👶: I have an adorable one year olf baby girl
 
 ## 🛠️ My Skills
 
