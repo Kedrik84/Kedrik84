@@ -5,7 +5,7 @@
 - :computer: I have over three years of software development experience.
 - :coffee: I love `JavaScript`,`typescript`, and `Java`
 - :snake: But, I also like `Python`.
-- I am experienced with `Angular` framewors.
+- I am experienced with `Angular` frameworks.
 - :nerd_face: Loves `Star Trek` :uss enterprise:
 - :baby: I have an adorable one year old baby girl and a beautiful wife :woman_scientist: :family:
 
